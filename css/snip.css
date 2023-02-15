@@ -1,0 +1,10 @@
+snip-pet{
+    display: block;
+    background-color:aliceblue;
+}
+snip-pet::after{
+    content:"Copy";
+}
+body{
+    background-color: firebrick;
+}
